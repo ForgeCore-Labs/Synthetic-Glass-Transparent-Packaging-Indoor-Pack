@@ -1,4 +1,5 @@
-<img width="1280" height="720" alt="banner1" src="https://github.com/user-attachments/assets/dd7dd623-ee17-451a-9846-85067b2d5d77" />
+<img width="1280" height="720" alt="header" src="https://github.com/user-attachments/assets/536180ac-509e-43f4-b7c6-216d1324cb08" />
+
 ## Synthetic Glass & Transparent Packaging Dataset (YOLO BBox + Segment)
 
 A photorealistic **synthetic computer vision dataset** for transparent glass and packaging objects, designed for object detection and image segmentation under challenging lighting conditions. The dataset is intended for YOLO validation, transparent object detection, instance segmentation, synthetic-to-real experiments, and computer-vision research involving transparent and reflective materials.
