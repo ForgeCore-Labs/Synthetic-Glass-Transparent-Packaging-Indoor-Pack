@@ -1,7 +1,15 @@
 <img width="1280" height="720" alt="header" src="https://github.com/user-attachments/assets/536180ac-509e-43f4-b7c6-216d1324cb08" />
 
 ## Synthetic Glass & Transparent Packaging Dataset (YOLO BBox + Segment)
+# Transparent Glass & Synthetic Optical Benchmark
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=aKlNZl4Qsro">
+    <img src="https://img.youtube.com/vi/aKlNZl4Qsro/maxresdefault.jpg" alt="Why Vision Models Fail on Glass Benchmark Video" width="100%">
+  </a>
+</p>
+
+> **Video Breakdown:** See why Segment Anything (SAM) over-segments path-traced caustics and how zero-noise synthetic ground truth enables precise evaluation.
 A photorealistic **synthetic computer vision dataset** for transparent glass and packaging objects, designed for object detection and image segmentation under challenging lighting conditions. The dataset is intended for YOLO validation, transparent object detection, instance segmentation, synthetic-to-real experiments, and computer-vision research involving transparent and reflective materials.
 
 This repository contains a **3-image sample dataset** with dual ground-truth annotations so you can test pipeline compatibility instantly.
